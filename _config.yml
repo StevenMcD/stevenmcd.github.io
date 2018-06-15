@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            StevenMcD
 tagline:          ''
 description:      'People, Leadership, Code'
-url:              '/'
+url:              '/stevenmcd.me'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
