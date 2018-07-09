@@ -7,7 +7,7 @@ title:            StevenMcD
 tagline:          ''
 description:      'People, Leadership, Code'
 url:              ''
-baseurl:          '/stevenmcd.me'
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
